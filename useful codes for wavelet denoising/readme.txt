@@ -1,0 +1,2 @@
+每次小波去噪结果可能会有差异，小波去噪的基本原理没有仔细研究，只是简单调用了一下matlab的函数，
+data_set 156 original为原始数据，运行data_denoising文件后生成了含有去噪后的数据的data 156 denosing文件夹
